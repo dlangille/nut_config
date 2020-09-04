@@ -1,5 +1,7 @@
 Goal: allow host to shutdown when needed.
 
+THIS is not a working configuration. I'm still testing.  This won't actually shutdown the host.
+
 shutdown commands have not been added, this is initial testing.
 
 Each host is monitored via the Nagios check_ups plugin.
