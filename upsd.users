@@ -1,0 +1,3 @@
+[local-heartbeat]
+password=heartpass
+upsmon slave
